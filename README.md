@@ -8,8 +8,8 @@ Bunun için ilk başta index.html sayfası oluşturdum ve button oluşturmak iç
 <table>
         <!-- başlık oluşturmak için thead etiketinden yararlanıldı-->
         <thead>
-                <tr>  <!--  satır -->
-                <th>User Id</th>
+                <tr>  satır oluşturam
+                <th>User Id</th> başlık oluşturma 
                 <th>Name</th>
                 <th>UserName</th>
                 <th>Email</th>
